@@ -26,6 +26,11 @@ pip install -r requirements.txt
 
 * Data can be downloaded from https://github.com/rajshah4/BasketballData
 
+## Note for using your own data
+
+* There may be trade-offs between training data size and model (and movement) complexity.
+* For example, if you have smaller data and the movement is simple, you can use simple model such as RNN. 
+
 ## Pretrained Models
 
 You can download pretrained models from `weights/` for NBA dataset as discussed in the paper.
