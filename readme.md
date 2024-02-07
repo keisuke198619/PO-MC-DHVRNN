@@ -6,8 +6,7 @@ This is the python code for Decentralized Policy Learning with Partial Observati
 Keisuke Fujii - https://sites.google.com/site/keisuke1986en/
 
 ## Reference
-Keisuke Fujii, Naoya Takeishi, Yoshinobu Kawahara,Kazuya Takeda, "Decentralized Policy Learning with Partial Observation and Mechanical Constraints for Multi-person Modeling", arXiv preprint arXiv:2007.03155, 2020
-https://arxiv.org/abs/2007.03155
+Keisuke Fujii, Naoya Takeishi, Yoshinobu Kawahara,Kazuya Takeda, "Decentralized Policy Learning with Partial Observation and Mechanical Constraints for Multi-person Modeling", Neural Networks, 171, 40-52, 2024 (arXiv: https://arxiv.org/abs/2007.03155)
 
 ## Requirements
 
